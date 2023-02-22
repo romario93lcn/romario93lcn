@@ -10,6 +10,8 @@
 
 ![Romário GitHub stats](https://github-readme-stats.vercel.app/api?username=romario93lcn&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romario93lcn)](https://github.com/romario93lcn/github-readme-stats)
+
 ### Technologies that I use in my day 💻
 
 <div style="display: inline-block"><br/>
@@ -34,4 +36,4 @@
 
 <br/><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romario93lcn)](https://github.com/romario93lcn/github-readme-stats)
+
